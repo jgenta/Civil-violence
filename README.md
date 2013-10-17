@@ -2,16 +2,15 @@
 
 > * Group Name: Violent Pot
 > * Group participants names: Federico Danieli, Jessica Genta, Robert Keitel, An-phi Nguyen
-> * Project Title: Civil Violence
+> * Project Title: Influence of information availability on unstable social systems
 
 ## General Introduction
 
-1)As recent revolutions in northern Africa have shown, media has a big impact on the dynamics of insurgency.
+1) As recent revolutions in northern Africa have shown, media has a big impact on the dynamics of insurgency.
 It is therefore of great interest to analyze the influence of the information provided by media on the behavior of single people and the group dynamics.
 This effect of media has an emerging importance on modeling social behavior. Especially in developing countries, where oppressive governments prevented the creation of large revolutionary groups, new social media is having a deep impact in connecting people sharing the same ideals. 
 
-2)Social media is playing a more and more relevant role in gathering people. As recent revolution in northern Africa have shown, they promote the organization of revolutionary groups against oppressive governments. This has already happened, and as new country begin to embrace these new technologies, it is bound to happen again. It is therefore important to analyze in detail how this factor influences these kind of social phenomena.
-
+2) Social media is playing a more and more relevant role in gathering people. As recent revolution in northern Africa have shown, they promote the organization of revolutionary groups against oppressive governments. This has already happened, and as new country begin to embrace these new technologies, it is bound to happen again. It is therefore important to analyze in detail how this factor influences these kind of social phenomena.
 
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
@@ -42,6 +41,15 @@ In order to implement the effects of media, two different ways are proposed:
 
 
 ## Fundamental Questions
+
+1.       How big is the impact of information availability in revolutionary actions?
+- Do media actually promote insurgencies and in which way? Do media play a role in increasing the frequency at which these insurgencies arise?
+- Are people encouraged to be violent if they can rapidly be supported by other groups through social networks for example?
+- Is therefore information availability an obstacle for oppressive governments that want to have the population under control?
+2.       How can organization within the population affect insurgencies?
+3.       How do localized insurgencies influence the behavior of single people?
+- What happens if they are attracted?
+- How does the revolution evolve?
 
 (At the end of the project you want to find the answer to these questions)
 (Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
