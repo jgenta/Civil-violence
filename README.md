@@ -6,16 +6,10 @@
 
 ## General Introduction
 
-1) As recent revolutions in northern Africa have shown, media has a big impact on the dynamics of insurgency.
+1) As recent revolutions in northern Africa have shown, media has a big impact on the dynamics of insurgency. It promotes for example the organization of revolutionary groups and events.
 It is therefore of great interest to analyze the influence of the information provided by media on the behavior of single people and the group dynamics.
-This effect of media has an emerging importance on modeling social behavior. Especially in developing countries, where oppressive governments prevented the creation of large revolutionary groups, new social media is having a deep impact in connecting people sharing the same ideals. 
+This effect of media has an emerging importance on modeling social behavior. Especially in developing countries, where oppressive governments prevented the creation of large revolutionary groups, new social media is having a deep impact in connecting people sharing the same ideals.
 
-2) Social media is playing a more and more relevant role in gathering people. As recent revolution in northern Africa have shown, they promote the organization of revolutionary groups against oppressive governments. This has already happened, and as new country begin to embrace these new technologies, it is bound to happen again. It is therefore important to analyze in detail how this factor influences these kind of social phenomena.
-
-
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Aedd real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## The Model
 
@@ -35,9 +29,6 @@ In order to implement the effects of media, two different ways are proposed:
 - Modifying the way people move to allow them to gather in bigger groups.
 
 
-(Define dependent and independent variables you want to study. Say how you want to measure them.) 
-(Why is your model a good abtraction of the problem you want to study?) 
-(Are you capturing all the relevant aspects of the problem?)
 
 
 ## Fundamental Questions
@@ -51,8 +42,6 @@ In order to implement the effects of media, two different ways are proposed:
 - What happens if they are attracted?
 - How does the revolution evolve?
 
-(At the end of the project you want to find the answer to these questions)
-(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
 
 
 ## Expected Results
@@ -63,24 +52,20 @@ In order to implement the effects of media, two different ways are proposed:
 - Big groups of revolutionaries act as an attractor for repressed people
 
 
-(What are the answers to the above questions that you expect to find before starting your research?)
-
 
 ## References 
 
 EPSTEIN, J. M. Modeling civil violence: An agent-based computational approach
-(Add the bibliographic references you intend to use)
-(Explain possible extension to the above models)
-(Code / Projects Reports of the previous year)
+
 
 
 ## Research Methods
 
 Agent-Based Model
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
+
 
 
 ## Other
 
 - Internet usage percentage in African nations (www.internetworldstats.com)
-(mention datasets you are going to use)
+
